@@ -29,7 +29,7 @@ const links = [
     url: "/activities",
   },
   {
-    label: "UsersActivities",
-    url: "/useractivities",
+    label: "Users Activities",
+    url: "/user-activities",
   },
 ];
